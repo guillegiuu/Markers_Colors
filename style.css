@@ -1,0 +1,31 @@
+/*Selectores*/
+h1 {
+  text-align: center;
+}
+
+/*Clases*/
+.contenedor {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
+}
+
+
+.marcador {
+  height: 25px;
+  width: 200px;
+  margin: 10px auto;
+}
+
+/*Marcador 1*/
+.uno {
+  background-color: rgb(255, 255, 0);
+}
+
+/*Marcador 2*/
+.dos {
+  background: rgb(0, 255, 255);
+}
+
+.tres {
+  background: rgb(255, 0, 255);
+}
